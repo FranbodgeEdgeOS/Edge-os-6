@@ -10,6 +10,7 @@ Edge OS is a custom ROM project based on LineageOS, focused on bringing a person
 |---|---|---|
 | **Edge OS 6.15** | Android 15 | ✅ Released |
 | **Edge OS 6.16** | Android 16 | ✅ Released |
+| **Edge OS 6.17** | Android 17 | Not now |
 
 ### Edge OS 6.15
 
