@@ -1,3 +1,5 @@
+<img width="1550" height="449" alt="image" src="https://github.com/user-attachments/assets/e01b4792-12a4-4f8a-b45c-b1f10b18dbe7" />
+
 # Edge OS 6
 
 **A custom Android ROM project for the Samsung Galaxy S6 Edge (SM-G925F).**
