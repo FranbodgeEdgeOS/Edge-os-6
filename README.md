@@ -23,17 +23,12 @@ Edge OS is a custom ROM project based on LineageOS, focused on bringing a person
 
 **Download:** [Edge OS 6.15 — GitHub Releases](https://github.com/FranbodgeEdgeOS/Edge-os-6/releases/tag/S6_edge)
 
-### Edge OS 6.16 — In Development
-
-Edge OS 6.16 is currently under development.
-
+### Edge OS 6.16 — New name EdgeOS 16
 Planned work includes:
 - Updating the ROM base to LineageOS 23 (Android 16).
 - Custom Edge OS branding and boot animation.
 - System improvements and stability testing.
 - Preparing a new flashable ZIP for TWRP.
-
-**Note:** Edge OS 6.16 is not yet released. Features and compatibility may change during development.
 
 ## ⚠️ Disclaimer
 
